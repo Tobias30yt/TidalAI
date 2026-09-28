@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<jpackage-state version="27" platform="windows">
+  <app-version>0.1.0</app-version>
+  <main-launcher name="TidalAI">
+    <description>TidalAI local AI workspace</description>
+  </main-launcher></jpackage-state>
